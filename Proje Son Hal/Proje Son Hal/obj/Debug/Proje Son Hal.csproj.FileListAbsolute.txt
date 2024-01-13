@@ -1,0 +1,38 @@
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Proje Son Hal.exe.config
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Proje Son Hal.exe
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Proje Son Hal.pdb
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\EntityFramework.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\EntityFramework.SqlServer.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\GMap.NET.Core.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\GMap.NET.WindowsForms.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\MySql.Data.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Newtonsoft.Json.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Data.SQLite.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Data.SQLite.EF6.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Data.SQLite.Linq.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Google.Protobuf.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Zstandard.Net.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\BouncyCastle.Crypto.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Ubiety.Dns.Core.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Memory.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Buffers.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\K4os.Compression.LZ4.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\K4os.Hash.xxHash.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Numerics.Vectors.dll
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\EntityFramework.xml
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\EntityFramework.SqlServer.xml
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\MySql.Data.xml
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\Newtonsoft.Json.xml
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\bin\Debug\System.Data.SQLite.xml
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje Son Hal.csprojAssemblyReference.cache
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje_Son_Hal.Form1.resources
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje_Son_Hal.Form2.resources
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje_Son_Hal.Properties.Resources.resources
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje Son Hal.csproj.GenerateResource.cache
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje Son Hal.csproj.CoreCompileInputs.cache
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje Son Hal.csproj.CopyComplete
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje Son Hal.exe
+D:\yazılım\PROJELER\3. sınıf 1. dönem\1. Proje\Proje Son Hal\Proje Son Hal\obj\Debug\Proje Son Hal.pdb
